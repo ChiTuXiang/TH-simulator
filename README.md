@@ -1,2 +1,2 @@
 # TH-simulator
-A simulator
+A simulator of ChiTuXiang
